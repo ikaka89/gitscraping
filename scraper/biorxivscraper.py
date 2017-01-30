@@ -3,7 +3,7 @@ Created on Jan 29, 2017
 
 This piece of code looks at all biorxiv papers and extracts git repos that have been cited
 
-@author: akshaykakumanu
+@author: akshaykakuman
 '''
 
 import requests
